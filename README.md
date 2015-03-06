@@ -1,1 +1,1 @@
-# methods
+# some useful functions
